@@ -6,6 +6,7 @@ Anton Rahmat Riyadi             211220105
 Muhammad Rizqi Akfani Rustiawan 211220107
 Ratna Dianty                    221220010
 Eko Wardianto                   221220027
+Willy Yosua			                221220031
 
 Aplikasi :
 PHP 8.1.12
